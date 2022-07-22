@@ -1,2 +1,2 @@
 # mqtt-broker-net-6
-Basic MQTT broker receiving data from clients
+Basic MQTT broker for receiving data from MQTT clients
